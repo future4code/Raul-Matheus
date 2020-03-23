@@ -36,14 +36,11 @@ button:focus {
 }
 
 img {
-    width: 100px;
+    width: 60px;
+    height: 40px;
 }
 
 
-
-div img {
-    background: black;
-}
 
 .botao-amarelo {
     background-color: #ffaf43;
@@ -109,7 +106,7 @@ div:last-child {
 
 table {
     width: 60%;
-    border: 3px solid red;
+   
     margin: 0 auto;
     text-align: center;
 }
@@ -125,6 +122,12 @@ td button {
 .container-do-search {
     margin-top: 20px;
     height: 100px;
+    
+
+}
+.container-do-search img{
+    width: 20px;
+    height: 10px;
 }
 
 
@@ -136,6 +139,10 @@ td button {
     border-radius: 5px;
     font-size: 10px;
     color: black;
+    margin: 0 auto;
+    position: relative;
+    left: 950px;
+    top: 350px;
 }
 
 #back-button:hover {
