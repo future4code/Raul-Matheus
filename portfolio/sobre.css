@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+  
+    background-color: white;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 2000px;
+   
+  
+
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+.cont-projeto{
+    width: 60%;
+    height: 60%;
+    margin-top: 40px;
+    margin-left: 400px;
+    float: none;
+    background-color: #ffffff33;
+    position: absolute;
+    font-family: 'Mansalva', cursive; 
+     text-align: center;
+     border-radius: 50px;
+}
+h3{
+    color:red ;
+    
+}
+p{
+    margin-top: 30px;
+    color:black;
+    font-size: 20px;
+    text-align: left justify;
+    
+    
+}
+
+
+.header-nav{
+    
+   
+   text-align: center;
+   margin-left: -10px;
+   height: 50px;
+   width: auto;
+   background-image: url(img/img/umbrela.png);
+   z-index: 1;
+
+  
+   
+    
+}
+
+
+.header-nav ul li{
+  display: inline-block;
+  padding: 0 100px;
+    margin: 0;
+    
+  
+
+}
+.header-nav ul li a{
+    color: red;
+    text-transform:  uppercase;
+    font-weight: 600;
+    font-size: 30px;
+   
+}
+li a:hover{
+    background-color: #708090;
+    
+    
+   
+   
+
+}
+
+
+
+
+}
+ul li{
+    display: inline-block;
+    padding: 0 100px;
+    margin: 10px;
+
+}
+img{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+{
+    text-size-adjust: 30px;
+}
+.pro li{
+    font-size: 30px;
+    font-family: 'Shojumaru', cursive;
+
+}
+
+.rodape{
+    background-image: url(img/img/umbrela.png);
+    color:ba;
+    height: 20px;
+    width: auto;
+    margin-top: 800px;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 65px;
+   
+}
+
+
