@@ -1,0 +1,68 @@
+
+body{
+    background-color: slategrey;
+    
+    background-attachment: fixed;
+    
+    background-size: 100%;
+   
+}
+
+header{
+    background-image: url(img/re.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#primeiro{
+
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    
+   
+   
+
+    
+}
+.menu ul{
+    padding: 0px;
+    margin: 0px;
+    background-color: #EDEDED;
+    list-style: none;
+    height: 100px;
+}
+
+.menu ul li{
+   
+	float: left;
+    text-align: left;
+    display: block;
+    
+		
+		}
+}
+
+    
+
+} 
+#principal{
+    width: 70%;
+    float: left;
+    margin: ;
+   
+   
+}
+
+p{
+    color: white;
+    font-size: 50px;
+    padding: 30px;
+}
+   
+
+
