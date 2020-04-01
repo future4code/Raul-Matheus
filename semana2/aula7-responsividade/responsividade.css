@@ -1,0 +1,29 @@
+.container{
+    width: 1000px;
+    height: 600px;
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-template-rows: 1fr 1fr 1fr 3fr 1fr;
+
+}
+.item{
+    border: 1px solid black;
+}
+
+.lateral{
+    display: grid;
+    grid-row: 1/6;
+}
+
+#red{
+    background-color: red;
+    display: grid;
+   
+    grid-column: 2/5;
+}
+
+#blue{
+    background-color: blue;
+    grid-row: 2;
+}
