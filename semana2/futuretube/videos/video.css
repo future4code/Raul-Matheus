@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+nav{
+    background-color:gray;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    height: 100px;
+
+}
+a{
+    font-size: 50px;
+    text-decoration: none;
+    color: orangered;
+}
+#busca{
+    justify-self: right;
+    align-self: center;
+    width: 320px;
+    height: 30px;
+    
+}
+section{
+    display: grid
+}
+.titulo{
+    text-align: center;
+    color: orangered;
+    font-size: 40px;
+
+}
+video{
+    justify-self: center;
+    height: 600px;
+    
+}
+footer{
+    background-color: gray;
+    position:absolute;
+    bottom:0;
+    width:100vw;
+    text-align: center;
+    
+}
